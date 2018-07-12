@@ -1,2 +1,2 @@
 # Kritsnam-winter
-Work done during kritsnam in winters'17
+Work done during Winters'17 in Kritsnam.
